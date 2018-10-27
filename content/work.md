@@ -4,7 +4,7 @@ date: 2018-01-08T15:32:54-06:00
 draft: false
 ---
 
-### Apple Media Products Analytics | Research Engineer (2018)
+### Apple Media Products Analytics Engineering | Research Engineer (2018)
 
 Responsible for collecting requirements from data scientists and analysts, translating them into engineering specs, working with other teams on instrumentation and data quality, and developing datasets and machine learning features used for analytics and customer experience research.
 
