@@ -5,7 +5,7 @@ draft: false
 ---
 
 ### Python | Java | R
-Scala | Spark | C | SQL | HiveQL | Hadoop | TensorFlow | Tesseract| CSS | HTML | Git | JavaScript | MIPS Assembly | Cypher (Neo4j) | Microsoft Power BI
+Scala | Spark | C | SQL | HiveQL | Hadoop | TensorFlow | Tesseract| CSS | HTML | Git | MIPS Assembly | Cypher (Neo4j)
 
 ### Relevant Undergraduate Coursework
 Probabilistic Machine Learning | Statistical Computing | Design & Analysis of Algorithms | Software Design & Implementation | Operating Systems | Introduction to Databases | Bayesian & Modern Statistics | Statistical Case Studies | Statistical Decision Analysis | Statistical Inference | Regression Analysis | Probability | Algorithms & Data Structures | Computer Architecture | Discrete Mathematics | Linear Algebra | Multivariable Calculus

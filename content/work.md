@@ -6,17 +6,16 @@ draft: false
 
 ### Apple Media Products Analytics Engineering | Research Engineer (2018)
 
-Responsible for collecting requirements from data scientists and analysts, translating them into engineering specs, working with other teams on instrumentation and data quality, and developing datasets and machine learning features used for analytics and customer experience research.
+Responsible for collecting requirements from data scientists and business teams and translating them into engineering specs. I develop datsets, machine learning features, and libraries, and I apply them to analytics and research that improve Apple media products such as Podcasts, Apple Music, etc. 
 
 ### AT&T Research Labs | Research Intern (2017)
 
-Worked to apply machine learning technology in software defined networking (SDN). Implemented Optical Character Recognition (OCR) and Long Short Term Memory (LSTM) neural networks to automate day-0 configuration and set-up of Virtualized Network Functions (VNFs). Applied deep convolutional neural networks to build a facial recognition tool for secure multi-factor authentication.
+Conducted research in the domain of Software Defined Networking (SDN), with machine learning applications. Developed an automation tool (full-stack) for day zero configuration and set up of Virtualized Network Functions (VNF) using optical character recognition (OCR) and long short term memory (LSTM) neural networks. Applied convolutional neural networks (CNN) to support an internal facial recognition tool for secure, multi-factor authentication.
 
 ### AT&T Big Data | Technical Intern (2016)
 
-Applied graph database Neo4j (first in AT&amp;T Big Data to utilize this technology), Hive, Python, and other statistical tools to data-driven analyses of
-employee productivity, automation opportunities, and resource management.
+Carried out data-driven analyses of employee productivity and developed solutions for workflow automation processes and resource management, using graph database Neo4j and other statistical tools. Aided in key decision making processes that resulted in a XX% increase in employee productivity.
 
 ### Duke CS | Teaching Assistant (2016-2017)
 
-Worked as a TA for Computer Architecture. Responsibilities include holding weekly office hours (both in-person and online), teaching lab sections, and grading.
+Worked as a TA for Computer Architecture. Responsibilities include holding weekly office hours (both in-person and online), teaching lab sections, and grading assignments and exams. 
