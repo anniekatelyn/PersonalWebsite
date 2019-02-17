@@ -22,11 +22,6 @@ publishDir = "docs"
   icon = "instagram"
   url = "https://www.instagram.com/anniekatelyntang/"
 
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  url = "https://github.com/anniekatelyn"
-
 [languages]
 [languages.en]
 languageName = "English"
