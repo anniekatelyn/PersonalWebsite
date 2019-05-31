@@ -5,20 +5,15 @@
 
         <!-- Header -->
           <header id="header">
-            <div class="logo">
-              {{ with .Site.Params.logoimage }}
-              <img src="{{ . }}" width="100%" style="padding: 10px 10px 10px 10px;">
-            {{ end }}
-            {{ with .Site.Params.logo }}            
-              <span class="icon {{ . }}"></span>
-            {{ end }}
-            </div>
+
             <div class="content">
               <div class="inner">
-                <h1>{{ .Site.Title | safeHTML }}</h1>
+                <!-- <h1>{{ .Site.Title | safeHTML }}</h1> -->
+                <img src="/images/logo.png">
                 <p>{{ .Site.Params.description | safeHTML }}</p>
               </div>
             </div>
+
             <nav>
               <ul>
                 {{ range .Data.Pages.ByWeight }}
@@ -28,12 +23,12 @@
             </nav>
           </header>
 
-          <div id="social-icons">
+          <!-- <div id="social-icons">
               {{ range .Site.Params.social }}
               <a href="{{ .url }}" target="_blank"> <i class="fa fa-{{ .icon}}"></i></a>
               {{ end }}
           </div>
-
+ -->
         <!-- Main -->
           <div id="main">
             {{ range .Data.Pages }}

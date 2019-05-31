@@ -4,6 +4,12 @@ date: 2018-01-08T15:34:09-06:00
 draft: false
 ---
 
+<div id="social-icons">
+	<a href="https://www.linkedin.com/in/anniekatelyntang/" target="_blank"> <i class="fa fa-linkedin"></i></a>
+	<a href="https://www.instagram.com/anniekatelyntang/" target="_blank"> <i class="fa fa-instagram"></i></a>
+</div>
+
+
 Hi, I'm Annie.
 
 I'm a recent graduate of the Duke University Class of 2018, where I earned a B.S. in Computer Science and a B.S. in Statistical Science. Since then, I've moved to California, and I currently work at Apple as a Research Engineer on the Apple Media Products Analytics Engineering team. 
