@@ -12,8 +12,6 @@ draft: false
 
 Hi, I'm Annie.
 
-I'm a recent graduate of the Duke University Class of 2018, where I earned a B.S. in Computer Science and a B.S. in Statistical Science. Since then, I've moved to California, and I currently work at Apple as a Research Engineer on the Apple Media Products Analytics Engineering team. 
-
-<b> Highlights: </b> hummus aficionado, bagel snob, future proprietor of a cauliflower farm. 
+I currently live in SF and work as a machine learning engineer at Apple Media Products Analytics (i.e. I code and usually it works). I did my undergrad at Duke University, where I earned a double B.S. in Computer Science and Statistics (i.e. I sometimes skipped sleep to study for class and I sometimes skipped class to go to basketball games). I'm a self proclaimed hummus aficionado, bagel snob, and future proprietor of a cauliflower (or donut, I haven't decided yet) farm. 
 
 {{< figure class="image main" src="/images/self.jpg" >}}
