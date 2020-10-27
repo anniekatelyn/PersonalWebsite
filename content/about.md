@@ -12,6 +12,6 @@ draft: false
 
 Hi, I'm Annie.
 
-I currently live in SF and work as a machine learning engineer at Apple Media Products Analytics (i.e. I code and usually it works). I did my undergrad at Duke University, where I earned a double B.S. in Computer Science and Statistics (i.e. I sometimes skipped sleep to study for class and I sometimes skipped class to go to basketball games). I'm a self proclaimed hummus aficionado, bagel snob, and future proprietor of a cauliflower (or donut, I haven't decided yet) farm. 
+I currently live in New York City and work as a data engineer on the artist facing platform at Spotify (i.e. I code and usually it works). I did my undergrad at Duke University, where I earned a double B.S. in Computer Science and Statistics. I'm a self proclaimed hummus aficionado, bagel snob, and future proprietor of a cauliflower (or donut, I haven't decided yet) farm. 
 
 {{< figure class="image main" src="/images/self.jpg" >}}

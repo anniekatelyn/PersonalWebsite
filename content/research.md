@@ -6,12 +6,12 @@ draft: false
 
 ### <a href="https://bassconnections.duke.edu/project-teams/blue-devil-resistome-project-2017-2018" target="_blank">Blue Devil Resistome</a> 
 
-Selected to work alongside Duke Medical School and BME faculty to better understand the potential risks associated with healthcare centers, environmental microbes, and infectious diseases through mapping the distribution of antibiotic-resistance genes across the Duke campus. Led the computational team in developing tools for data analysis and dissemination. Personally set up data pipeline and developed project website.
+Selected to work alongside Duke Medical School and BME faculty to better understand the potential risks associated with healthcare centers, environmental microbes, and infectious diseases through mapping the distribution of antibiotic-resistance genes across the Duke campus. Led the computational team in developing tools for data analysis and dissemination. Built data pipeline and developed project website.
 
 
 ### ProtoStar 
 
-Assisting Duke CS and Statistics faculty in developing an interactive tool that will improve online big data database query performance analysis through the use of large-scale, multi-level, directed acyclic dependency graphs. Specifically, researching the use of probabilistic reasoning to define an intelligent method of large-scale data-stream collection and analysis.
+Assisted Duke CS and Statistics faculty in developing an interactive tool that improves online big data database query performance analysis through the use of large-scale, multi-level, directed acyclic dependency graphs. Specifically, researched the use of probabilistic reasoning to define an intelligent method of large-scale data-stream collection and analysis.
 
 ### Data+ 
 
